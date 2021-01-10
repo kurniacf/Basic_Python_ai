@@ -7,3 +7,16 @@ print(a[2:5])  # ambil char dari x hingga y (x:y)
 
 c = "hello world!"
 print(len(c))  # menghitung panjang string
+
+# Merge
+a = "hello"
+b = "world!"
+c = a + b
+print(c)
+
+# Merge with space
+a = "hello"
+b = "world!"
+c = "2021"
+d = a + b + c
+print(a + " " + b + " " + c)
