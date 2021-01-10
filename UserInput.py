@@ -1,3 +1,4 @@
+# user Input
 name = input("Enter Name: ")
 print("Your name is: " + name)
 print(type(name))
