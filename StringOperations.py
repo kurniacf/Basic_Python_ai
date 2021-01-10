@@ -1,4 +1,5 @@
 # 0 1 2 3 4 5 etc.
+# plus(+)
 a = "hello world!"
 print(a[1])  # ambil 1 char
 
